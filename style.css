@@ -1,0 +1,103 @@
+body {
+    height: 50%;
+    max-width:98wv;
+    background: url(bilder/jord_final/jord_final_01.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    text-align: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 4em;
+}
+
+.seksjon1 {
+    width:100%;
+    text-align: center;
+    height: 300vh;
+}
+
+.seksjon2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    height: 200vh;
+}
+
+.seksjon2 p {
+    max-width: 50%;
+    text-align: center;
+    justify-content: center;
+    height: 200vh;
+    font-size: 26px;
+}
+
+.seksjon3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    height: 200vh;
+    min-width:100%;
+    width:100%;
+
+}
+
+
+
+.prosjekter img {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+
+
+.seksjon4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    height: 200vh;
+    
+}
+
+.seksjon4 p {
+    max-width: 50%;
+    text-align: center;
+    justify-content: center;
+    height: 200vh;
+    font-size: 24px;
+    
+}
+
+
+
+
+footer {
+    height: 50px;
+    background-color: grey;
+    text-align: center;
+    bottom: 0;
+}
